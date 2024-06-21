@@ -1,0 +1,3 @@
+Key alises : my-key-alias
+keystore: my-release-key001.jks
+Password : 123456
